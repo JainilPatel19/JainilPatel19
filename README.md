@@ -78,3 +78,17 @@ interests:
   <!-- VS Code -->
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code" alt="VS Code" width="40" height="40"/>
 </p>
+
+<!-- Snake animation -->
+<p align="center">
+  <img src="https://github.com/JainilPatel19/JainilPatel19/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<!-- Waving banner message -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff004f,100:ffa500&height=140&section=footer&text=Looking%20forward%20to%20connecting!%20🚀&fontColor=ffffff&fontSize=30&fontAlignY=70&animation=fadeIn&textBg=false" />
+</p>
+
+
+
+
